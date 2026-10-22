@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="bruna-avatar.png" width="300" alt="Ilustração da Bruna">
+</div>
 # 👩‍💻 Olá! Eu sou a Bruna Mendes!
 
 Sou uma entusiasta da tecnologia, curiosa e comprometida com o aprendizado contínuo.
