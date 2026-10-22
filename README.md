@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="bruna-avatar.png" width="300" alt="Ilustração da Bruna">
+  <img src="Bruna.avatar.png" width="300" alt="Ilustração da Bruna">
 </div>
 # 👩‍💻 Olá! Eu sou a Bruna Mendes!
 
